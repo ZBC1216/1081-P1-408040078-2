@@ -1,0 +1,25 @@
+body {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 20px solid #bdc3c7;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+     }
+  
+  h1 {
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: #3c30e6;
+  }
+  
+  
+  
+  #content{
+      background-color: bisque;
+  }
+  
+  
+
+  
+  
